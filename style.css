@@ -1,0 +1,97 @@
+body{
+    padding:40px;
+}
+
+.beagle{
+    color: #000;
+font-family: Inter;
+font-size: 40px; 
+font-style: italic;
+font-weight: 700;
+}
+#section1 {
+    border:2px solid #333;
+    margin-left: px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+#section1 h1 {
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+#section1 p {
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+#section1 a {
+color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+#section2 img {
+    width: 1051px;
+    height: 762px;
+flex-shrink: 0;
+}
+#section2 h1{
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+#section2 a {
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;}
+
+#section3 h3 {
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+#section3 ol {
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.readmore{
+color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
